@@ -6,18 +6,23 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 Thank you to the following cities for sharing their data!
 
 **Atlanta, Georgia, USA**
+
 https://www.atlantaga.gov/government/departments/city-planning/environment-and-urban-ecology/atlanta-city-design-nature
 
 **Austin, TX, USA**
+
 https://data.austintexas.gov/Locations-and-Maps/Tree-Inventory/wrik-xasw
 
 **Baltimore, Maryland, USA**
+
 https://baltimore.maps.arcgis.com/apps/webappviewer/index.html?id=d2cfbbe9a24b4d988de127852e6c26c8
 
 **Bloomington, Indiana, USA**
+
 https://data.bloomington.in.gov/dataset/public-tree-inventory
 
 **Boston, Massachusetts, USA**
+
 https://boston.maps.arcgis.com/home/item.html?id=34de24bdc2aa44739d18cd0b2b334957&view=list&sortOrder=desc&sortField=defaultFSOrder#data
 
 **Boulder, Colorado, USA**
