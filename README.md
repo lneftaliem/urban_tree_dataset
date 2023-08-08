@@ -10,18 +10,26 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 **Within the dataset:**
 
   country: country of inventoried data
+  
   state: state of inventoried data
+  
   city: city of inventoried data
+  
   year: year inventory was completed or appended
+  
   long: longitude; projected on EPSG:4326
+  
   lat: latitude; projected on EPSG:4326
+  
   species_botanical_name: scientific genus and species name
+
   species_common_name: common name
+  
   dbh: collected in centimeters collected at approx. 4.5 feet
 
 
-
 **Thank you to the following cities for sharing their data!**
+
 
 
 **Atlanta, Georgia, USA**
