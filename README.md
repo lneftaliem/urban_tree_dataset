@@ -47,9 +47,42 @@ https://data.waterloo.ca/datasets/cityofcambridge::street-trees
   Contains information licensed under the Open Government Licence – City of Cambridge.
   See license: [https://maps.cambridge.ca/images/opendata/Open data licence.pdf]    (https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf)
 
+**Columbus, Ohio, USA**
+
+https://opendata.columbus.gov/datasets/columbus::public-owned-trees/explore
+
+**Cupertino, California, USA**
+
+https://gis-cupertino.opendata.arcgis.com/datasets/Cupertino::trees/explore
+
 **Dallas, Texas, USA**
 
- https://dallastx.treekeepersoftware.com/index.cfm?deviceWidth=1680
+https://dallastx.treekeepersoftware.com/index.cfm?deviceWidth=1680
+
+**Edmonton, Alberta, Canada**
+
+https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax
+
+  See license: https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/
+
+**Kitchener, Ontario, Canada**
+
+https://data.waterloo.ca/datasets/KitchenerGIS::tree-inventory/about
+
+  Contains information licensed under the Open Government Licence - The Corporation of the City of Kitchener.
+
+**Montreal, Quebec, Canada**
+
+https://donnees.montreal.ca/ville-de-montreal/arbres
+
+  See license: https://donnees.montreal.ca/licence-d-utilisation
+
+**New York, New York, USA**
+
+https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35
+
+**New Orleans, Louisiana, USA**
+https://data.nola.gov/Parks-Parkways/Tree-Locations/g94y-wr47#next
 
 **Philidelphia, Pennsylvania, USA**
 
@@ -64,30 +97,7 @@ https://data.wprdc.org/dataset/city-trees
 
   Credit to the City of Pittsburgh. Derived data in this release is modified from the original version.
   See license: https://creativecommons.org/licenses/by/4.0/legalcode
-
-**New York, New York, USA**
-
-https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35
-
-**Denver, Colorado, USA**
-
-https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-tree-inventory
-
-  Credit to City of Denver Open Data Catalog. Under the license terms CC BY 3.0.
-  See [data.denvergov.org](http://data.denvergov.org/) and [www.creativecommons.org](http://www.creativecommons.org/) for more info.
-
-**Edmonton, Alberta, Canada**
-
-https://data.edmonton.ca/Environmental-Services/Trees-Map/udbt-eiax
-
-  See license: https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/
-
-**Kitchener, Ontario, Canada**
-
-https://data.waterloo.ca/datasets/KitchenerGIS::tree-inventory/about
-
-  Contains information licensed under the Open Government Licence - The Corporation of the City of Kitchener.
-
+  
 **Portland, Oregon, USA**
 
 https://www.portland.gov/trees/get-involved/treeinventory
