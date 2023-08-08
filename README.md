@@ -2,10 +2,12 @@
 A North American Urban Tree Dataset
 
 **Background**
+
 Urban areas face significant environmental challenges driven by anthropogenic influences, as urban landscapes are often characterized by air and noise pollution, habitat loss, and heat island effects. Previous research suggests that urban trees help to mitigate the consequences of urban dwelling. However, the lack of comprehensive spatial information on urban trees at a large-scale has hindered research progress, particularly in quantifying the numerous benefits that urban trees provide, such as carbon storage and air purification. Thus, quantifying urban ecological mechanisms requires a spatially explicit urban tree dataset. While many cities have local urban tree inventories available, there is no large-scale urban tree dataset with spatially explicit information and tree characteristics currently available, which is essential for accurately quantifying carbon storage. _Here, we developed a new North American dataset by leveraging local urban tree inventories from 30 cities across the United States and Canada, capturing over 4.7 million urban trees with standardized measurement systems and tree species names._ We anticipate that the development of a robust, publicly available dataset can facilitate the exploration of large-scale urban ecological dynamics.
 
 
 **Within the dataset:**
+
   country: country of inventoried data
   state: state of inventoried data
   city: city of inventoried data
