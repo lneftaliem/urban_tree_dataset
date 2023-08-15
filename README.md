@@ -43,7 +43,7 @@ https://urldefense.com/v3/__https:/geospatial.gatech.edu/AtlantaUTC/ATLTrees.zip
 **Austin, TX, USA**
 
 https://data.austintexas.gov/Locations-and-Maps/Tree-Inventory/wrik-xasw
-
+  See license: https://opendatacommons.org/licenses/pddl/1-0/
 
 **Baltimore, Maryland, USA**
 
