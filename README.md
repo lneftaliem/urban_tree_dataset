@@ -1,5 +1,5 @@
 # urban_tree_dataset
-A North American Urban Tree Spatial Dataset
+A North American urban tree spatial dataset
 
 
 **Background**
