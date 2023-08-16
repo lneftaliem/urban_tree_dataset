@@ -104,7 +104,7 @@ https://gis-cupertino.opendata.arcgis.com/datasets/Cupertino::trees/explore
 
 **Dallas, Texas, USA**
 
-https://dallastx.treekeepersoftware.com/index.cfm?deviceWidth=1680
+https://dallastx.treekeepersoftware.com/index.cfm?deviceWidth=1280\
     Derived data in this release is modified from the original version.
 
 **Edmonton, Alberta, Canada**
