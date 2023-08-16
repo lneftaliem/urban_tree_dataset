@@ -9,6 +9,7 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 
 
 
+
 **Within the dataset:**
 
   country: country of inventoried data
@@ -32,6 +33,7 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 
 
 **Thank you to the following cities for sharing their data!**
+
 
 
 
