@@ -39,7 +39,7 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 
 **Atlanta, Georgia, USA**
 
-https://urldefense.com/v3/__https:/geospatial.gatech.edu/AtlantaUTC/ATLTrees.zip__;!!ENSHsYdSoey7eA!8-LK-Yave6m7RXxmUEbMRh2QjSPtK6DZphu0jgPr0IHWxdNsDO0aCisc9dNM7bZMfIojnDil-TxO7gNY510V$
+https://geospatial.gatech.edu/AtlantaUTC/ATLTrees.zip
   Derived data in this release is modified from the original version.
 
 **Austin, TX, USA**
