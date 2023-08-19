@@ -24,11 +24,11 @@ Urban areas face significant environmental challenges driven by anthropogenic in
   
   lat: latitude; projected on EPSG:4326
   
-  species_botanical_name: scientific genus and species name
+  species_botanical_name: scientific genus and species name of inventoried tree
 
-  species_common_name: common name
+  species_common_name: common name of inventoried tree
   
-  dbh: collected in centimeters collected at approx. 4.5 feet
+  dbh: collected in centimeters at approx. 4.5 feet
 
 
 
