@@ -323,6 +323,10 @@ austin_trees_clean <- left_join(austin_trees_clean, spp_code, by = "species_comm
 
 austin_trees_clean<-austin_trees_clean[, c(5:8,4,3,9,1:2)]
 
+austin_trees_clean <- austin_trees_clean %>% 
+ filter(long >= -100.00 & long <= -90.00,
+    lat >= 25.00 & lat <= 35.00)
+
 #write.csv(austin_trees_clean, "~/Dropbox/Urban_data/Cleaned/austin_trees_clean.csv", row.names = FALSE)
 
 ```
@@ -2603,6 +2607,11 @@ montreal_trees_clean <- montreal_trees_clean %>%
 
 
 montreal_trees_clean<-montreal_trees_clean[, c(5:8,2,1,4,9,3)]
+
+
+montreal_trees_clean <- montreal_trees_clean %>%
+    filter(long >= -79.00 & long <= -70.00,
+    lat >= 40.00 & lat <= 49.00)
 
 #write.csv(montreal_trees_clean, "~/Dropbox/Urban_data/Cleaned/montreal_trees_clean.csv", row.names = FALSE)
 
