@@ -18,7 +18,7 @@ Urban areas face significant environmental challenges driven by anthropogenic in
   
   city: city of inventoried data
   
-  year: year inventory was completed or appended
+  year: year inventory was completed or updated
   
   long: longitude; projected on EPSG:4326
   
