@@ -2840,7 +2840,7 @@ philly_trees<- read.csv("~/Dropbox/Urban_data/Raw/philadelphia_pa_usa.csv")
 philly_trees$country <- "usa"
 philly_trees$state <- "pennsylvania"
 philly_trees$city <- "philadelphia"
-philly_trees$year <- "2022" #last updated in 2020
+philly_trees$year <- "2022" #last updated in 2022
 
 philly_trees_clean <- philly_trees %>% 
  # filter(height != "0" & height != "") %>% 
