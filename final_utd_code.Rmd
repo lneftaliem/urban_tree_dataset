@@ -115,7 +115,7 @@ austin_trees<- read.csv("~/Dropbox/Urban_data/Raw/austin_tx_usa.csv")
 austin_trees$country <- "usa"
 austin_trees$state <- "texas"
 austin_trees$city <- "austin"
-austin_trees$year <- "2023" #updated in 2023
+austin_trees$year <- "2020" #updated in 2020
 
 austin_trees_clean <- austin_trees %>% 
   dplyr::rename(lat = LATITUDE,
