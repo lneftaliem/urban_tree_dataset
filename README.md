@@ -32,6 +32,10 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 
 
 
+_Supplementary info: scientifc species and common names are available in spp_codes_final file and the cleaning code for each data set is available as final_utd_code._
+
+
+
 **Thank you to the following cities for sharing their data!**
 
 
