@@ -1,7 +1,7 @@
 
-The complete, original dataset is available here:
+The original dataset is available here (4.7 million trees):
   https://drive.google.com/file/d/1MDLjp1tQNH2goJfiyZGSLK8skVuJo0Sy/view?usp=share_link
 
-The post-verfiication dataset is available here with NDVI values from 2015-2023. The trees in the dataset below are predicted as alive in 2023. 
-Note: previously inventoried trees with < 0.2 NDVI value were removed from this dataset. 
+The post-verfiication dataset is available here with NDVI values from 2015-2023. The trees in the dataset below are predicted as alive in 2023 (3.7 million trees). 
+Note: inventoried trees in the original dataset that are equal to or above the 0.2 NDVI threshold in 2023 were kept to create this dataset. 
   https://drive.google.com/file/d/1fM9d3ls-_S8r9mCgkttuNiou2xEbVZo5/view?usp=share_link
