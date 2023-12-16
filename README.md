@@ -166,6 +166,8 @@ https://data.wprdc.org/dataset/city-trees
 
 https://www.portland.gov/trees/get-involved/treeinventory
     Derived data in this release is modified from the original version.
+    See license: Public Domain Dedication and License v1.0, http://www.opendatacommons.org/licenses/pddl/1.0/
+
 
 **Richmond, Virginia, USA**
 
