@@ -34,7 +34,7 @@ Urban areas face significant environmental challenges driven by anthropogenic in
 
 _Supplementary info: scientifc species and common names are available in spp_codes_final file, the cleaning code for each data set is available as final_utd_code, the individual datasets are available under the bycity folder, and my AGU 2023 poster is available under AGU_2023_poster._ 
 
-_Notes: There are two datasets: 1) the original 4.7 million tree dataset, which combines all tree inventories despite their collection year, and 2) the 3.7 million tree dataset, which only includes inventoried trees that are likely to still be alive in 2023. Both the original 4.7 million tree dataset and post-verification 3.7 million dataset are available under alldata. The individual city datasets under bycity are from the original dataset._
+_Notes: There are two datasets: 1) the original 4.7 million tree dataset, which combines all tree inventories despite their collection year, and 2) the 3.9 million tree dataset, which only includes inventoried trees that are likely to still be alive in 2023. Both the original 4.7 million tree dataset and post-verification 3.9 million dataset are available under alldata. The individual city datasets under bycity are from the original dataset._
 
 
 
