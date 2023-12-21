@@ -96,7 +96,7 @@ https://maps.calgary.ca/TreeSchedule/
 https://data.waterloo.ca/datasets/cityofcambridge::street-trees
   Derived data in this release is modified from the original version.
   Contains information licensed under the Open Government Licence – City of Cambridge.
-  See license: [https://maps.cambridge.ca/images/opendata/Open data licence.pdf]    (https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf)
+  See license: https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf
   
 
 **Columbus, Ohio, USA**
