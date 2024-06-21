@@ -4,4 +4,4 @@ The original dataset is available here (4.7 million trees):
 
 The post-verfiication dataset is available here with biomass, carbon, CO2, and NDVI for each tree. The geometry column indicates the area in which NDVI was calculated. The trees in the dataset below are predicted as alive in 2023 (3.7 million trees). 
 Note: inventoried trees in the original dataset that are equal to or above the 0.2 NDVI threshold in 2023 were kept to create this dataset. 
-  https://drive.google.com/file/d/1eHy3CmJEnZPWR1vKCIdxl0b7RzkPahhR/view?usp=share_link
+  https://drive.google.com/file/d/1DyhWzrv0SDUAniJNXS3xWeGqXQks2_tr/view?usp=sharing
